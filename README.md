@@ -10,7 +10,7 @@ Proyek ini bertujuan untuk melakukan *web scraping* data kendaraan bekas dari si
    - Data kemudian disimpan dalam format CSV untuk analisis lebih lanjut.
 
 2. **Dashboard**
-   - Menggunakan Power BI atau Tableau untuk membuat dashboard interaktif.
+   - Menggunakan Power BI untuk membuat dashboard interaktif.
    - Dashboard akan menampilkan visualisasi data seperti grafik, tabel, dan filter untuk memudahkan analisis.
 
 ## Instalasi dan Penggunaan
@@ -30,6 +30,6 @@ Proyek ini bertujuan untuk melakukan *web scraping* data kendaraan bekas dari si
      ```
 
 2. **Dashboard**
-   - Pastikan Power BI atau Tableau telah terinstal di komputer Anda.
-   - Impor file CSV yang telah dihasilkan dari scraping data ke dalam Power BI atau Tableau.
+   - Pastikan Power BI telah terinstal di komputer Anda.
+   - Impor file CSV yang telah dihasilkan dari scraping data ke dalam Power BI.
    - Buat visualisasi dan dashboard dengan menampilkan informasi seperti sales by segment, orders by month, total category growth by year, total segment growth by year, total budget 2023, perbandingan growth 2022 vs 2023, YTD sales 2022 dan 2023.
