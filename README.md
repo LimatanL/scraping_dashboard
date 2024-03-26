@@ -33,3 +33,8 @@ Proyek ini bertujuan untuk melakukan *web scraping* data kendaraan bekas dari si
    - Pastikan Power BI telah terinstal di komputer Anda.
    - Impor file CSV yang telah dihasilkan dari scraping data ke dalam Power BI.
    - Buat visualisasi dan dashboard dengan menampilkan informasi seperti sales by segment, orders by month, total category growth by year, total segment growth by year, total budget 2023, perbandingan growth 2022 vs 2023, YTD sales 2022 dan 2023.
+
+## Scraping dan Dashboard
+
+- Scraping data dapat dilihat di [syntax_scraping](https://github.com/LimatanL/scraping_dashboard/blob/main/carsome.ipynb).
+- Dashboard dapat dilihat di [dashboard_pb](https://github.com/LimatanL/scraping_dashboard/blob/main/dashboard_Test.pdf).
