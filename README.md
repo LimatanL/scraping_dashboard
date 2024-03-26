@@ -1,7 +1,3 @@
-README yang telah Anda tulis terlihat sudah cukup jelas dan informatif. Namun, ada beberapa perbaikan yang dapat dilakukan untuk memperjelas beberapa langkah dan informasi tambahan yang mungkin berguna:
-
----
-
 # Scraping Data dan Dashboard
 
 Proyek ini bertujuan untuk melakukan *web scraping* data kendaraan bekas dari situs web [[carsome](https://www.carsome.id/beli-mobil-bekas?carTypes=1)] dan membuat dashboard interaktif untuk menganalisis data.
